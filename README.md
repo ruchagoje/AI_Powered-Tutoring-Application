@@ -1,5 +1,3 @@
-# AI_Powered-Tutoring-Application
-
 # AI Tutor
 
 Interactive AI tutoring app (Python + Gradio) with streaming responses and adjustable explanation levels.
